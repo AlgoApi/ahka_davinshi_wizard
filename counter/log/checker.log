@@ -1,0 +1,16 @@
+[14-06-2025-12:33:03 - INFO] - Время 5:23! Выполняется запланированное действие.
+INFO:logger_service:Время 5:23! Выполняется запланированное действие.
+[14-06-2025-12:33:20 - INFO] - Время 5:23! Выполняется запланированное действие.
+INFO:logger_service:Время 5:23! Выполняется запланированное действие.
+INFO:telethon.network.mtprotosender:Connecting to xxxxx.51:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to xxxxx:443/TcpFull complete!
+[14-06-2025-12:33:34 - INFO] - нашёл группу из бд
+INFO:logger_service:нашёл группу из бд
+[14-06-2025-12:33:34 - INFO] - нашёл группу из бд
+INFO:logger_service:нашёл группу из бд
+[14-06-2025-12:33:34 - INFO] - Message date: 2025-06-13 23:44:08
+INFO:logger_service:Message date: 2025-06-13 23:44:08
+[14-06-2025-12:33:35 - INFO] - Message date: 2025-06-13 23:44:08
+INFO:logger_service:Message date: 2025-06-13 23:44:08
+[14-06-2025-12:34:19 - INFO] - Обработка аккаунта: 79059536314
+INFO:logger_service:Обработка аккаунта: 79059536314

@@ -1,0 +1,6 @@
+telethon==1.37.0
+PySocks==1.7.1
+python-socks
+async_timeout
+requests
+pytz
